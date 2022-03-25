@@ -17,6 +17,7 @@ final Map<String, String> enUs = {
   "lbl_logo": "LOGO",
   "lbl_home": "Home",
   "lbl_50_diamond": "50 Diamond",
+  "lbl_qaqa": "qaqa",
   "lbl_login": "Login",
   "msg_your_donation_h":
       "Your donation has been succeed and will be\ntransfered soon to the needy",

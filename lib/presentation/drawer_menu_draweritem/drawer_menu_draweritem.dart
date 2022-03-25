@@ -130,7 +130,7 @@ class DrawerMenuDraweritem extends StatelessWidget {
                                                             decoration:
                                                                 BoxDecoration(
                                                                     color: ColorConstant
-                                                                        .black900))
+                                                                        .black900Null))
                                                       ])),
                                               Align(
                                                   alignment:
@@ -288,7 +288,7 @@ class DrawerMenuDraweritem extends StatelessWidget {
                                                                     232.00),
                                                             decoration: BoxDecoration(
                                                                 color: ColorConstant
-                                                                    .black900)),
+                                                                    .black900Null)),
                                                         Padding(
                                                             padding: EdgeInsets.only(
                                                                 left:

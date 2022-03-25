@@ -55,17 +55,8 @@ class LoginScreen extends GetWidget<LoginController> {
                                   65.00,
                                 ),
                               ),
-                              child: Container(
-                                height: getSize(
-                                  72.00,
-                                ),
-                                width: getSize(
-                                  72.00,
-                                ),
-                                child: SvgPicture.asset(
-                                  ImageConstant.imgLogo,
-                                  fit: BoxFit.fill,
-                                ),
+                              child: Text(
+                                "lbl_qaqa".tr,
                               ),
                             ),
                           ),

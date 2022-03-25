@@ -55,7 +55,7 @@ class AppNavigationScreen extends GetWidget<AppNavigationController> {
                                     margin: EdgeInsets.only(
                                         top: getVerticalSize(5.00)),
                                     decoration: BoxDecoration(
-                                        color: ColorConstant.black900))
+                                        color: ColorConstant.black900Null))
                               ])),
                       Expanded(
                           child: Align(

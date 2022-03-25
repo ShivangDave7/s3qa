@@ -12,7 +12,7 @@ class AppStyle {
   );
 
   static TextStyle textStyleregular20 = TextStyle(
-    color: ColorConstant.black900,
+    color: ColorConstant.black900Null,
     fontSize: getFontSize(
       20,
     ),
@@ -50,6 +50,10 @@ class AppStyle {
     fontWeight: FontWeight.w500,
   );
 
+  static TextStyle textStyleregular8 = TextStyle(
+    color: ColorConstant.black900Null,
+  );
+
   static TextStyle textStylePoppinsmedium18 =
       textStylePoppinsmedium181.copyWith(
     color: ColorConstant.gray900,
@@ -73,7 +77,7 @@ class AppStyle {
 
   static TextStyle textStylePoppinsregular121 =
       textStylePoppinsregular12.copyWith(
-    color: ColorConstant.black900,
+    color: ColorConstant.black900Null,
   );
 
   static TextStyle textStylePoppinsmedium12 = TextStyle(
@@ -108,7 +112,7 @@ class AppStyle {
   );
 
   static TextStyle textStylePoppinsmedium181 = TextStyle(
-    color: ColorConstant.black900,
+    color: ColorConstant.black900Null,
     fontSize: getFontSize(
       18,
     ),
@@ -176,7 +180,7 @@ class AppStyle {
   );
 
   static TextStyle textStylePoppinssemibold24 = TextStyle(
-    color: ColorConstant.black900,
+    color: ColorConstant.black900Null,
     fontSize: getFontSize(
       24,
     ),
@@ -204,6 +208,6 @@ class AppStyle {
 
   static TextStyle textStylePoppinsregular14 =
       textStylePoppinsregular141.copyWith(
-    color: ColorConstant.black900,
+    color: ColorConstant.black900Null,
   );
 }
